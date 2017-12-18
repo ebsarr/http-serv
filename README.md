@@ -1,2 +1,2 @@
 # static-webserver
-Simple static webserver written in go
+Simple static webserver written in go.
